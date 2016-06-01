@@ -2,7 +2,6 @@
 layout: post
 title:  "New Meeting Location"
 date:   2016-05-28 10:00:00
-categories: news
 ---
 
 The big announcement: we will be trying out a new place to meet for our June 10th meeting. We will be meeting in ...
