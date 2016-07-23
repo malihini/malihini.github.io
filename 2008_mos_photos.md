@@ -26,7 +26,7 @@ Pterostylis curta exhibited by Ginette Sanchou
 ### Judges Choice
 
 ![Paphiopedilum Duguesclin](/photos/2008_MOS_show/paphduguesclin.jpg)
-)
+
 Paphiopedilum Duguesclin exhibited by Rick Barry
 
 ### Lillian Severin Trophy Best Species
@@ -61,7 +61,7 @@ Lc. Mini Purple 'Neon' exhibited by Japheth Ko
 
 ![Cymbidium Crown of Creation](/photos/2008_MOS_show/cymcrownofcreation.jpg)
 
-Cymbidium Creation of Creation exhibited by Thu Ba
+Cymbidium Crown of Creation exhibited by Thu Ba
 
 #### Intermediate Division
 
