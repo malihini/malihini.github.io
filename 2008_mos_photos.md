@@ -7,15 +7,21 @@ menu_exclude: true
 
 Photography by Buddy Mark
 
-### Best Flower in Show
 
-#### Best of Other Genera
 
-##### Advanced Division
+### Best of Other Genera
+
+#### Advanced Division
 
 ![Masdevallia Tom Nasser 'Young Ik'](/photos/2008_MOS_show/masdtomnasser_young_ik.jpg)
 
-Masdevallia Tom Nasser 'Young Ik' AM/AOS exhibited by Anna Chai
+**Best Flower in Show** Masdevallia Tom Nasser 'Young Ik' AM/AOS exhibited by Anna Chai
+
+#### Amateur Division
+
+![Pterostylis curta](/photos/2008_MOS_show/Pterostyliscurta.jpg)
+
+Pterostylis curta exhibited by Ginette Sanchou
 
 ### Judges Choice
 
@@ -57,6 +63,12 @@ Lc. Mini Purple 'Neon' exhibited by Japheth Ko
 
 Cymbidium Creation of Creation exhibited by Thu Ba
 
+#### Intermediate Division
+
+![Cymbidium Mad Doctor](/photos/2008_MOS_show/cymmaddoctor.jpg)
+
+Cymbidium Mad Doctor exhibited by Eanghak Quach
+
 ### Best Paphiopedilum
 
 #### Advanced Division
@@ -64,6 +76,11 @@ Cymbidium Creation of Creation exhibited by Thu Ba
 ![Paphiopedilum Lady Isabel](/photos/2008_MOS_show/paphladyisabel.jpg)
 
 Paphiopedilum Lady Isabel exhibited by Walter Shinn
+
+#### Amateur Division
+
+![Paphiopedilum Rosy Dawn](/photos/2008_MOS_show/paphrosydawn.jpg)
+Paphiopedilum Rosy Dawn exhibited by Pat Proctor
 
 ### Best Vandaceous Alliance
 
@@ -73,6 +90,12 @@ Paphiopedilum Lady Isabel exhibited by Walter Shinn
 
 Vanda Robert's Delight 'Garnet Beauty' exhibited by Japheth Ko
 
+#### Amateur Division
+
+![Phalaenopsis amabilis](/photos/2008_MOS_show/phalamabilis.jpg)
+
+Phalaenopsis amabilis exhibited by Vouch Tain
+
 ### Best Dendrobium
 
 #### Advanced Division
@@ -80,6 +103,18 @@ Vanda Robert's Delight 'Garnet Beauty' exhibited by Japheth Ko
 ![Dendrobium Specio-kingianum](/photos/2008_MOS_show/denspeciosum.jpg)
 
 Dendrobium Specio-kingianum exhibited by Thu Ba
+
+#### Intermediate Division
+
+![Dendrobium Spring Jewel](/photos/2008_MOS_show/denspringjewel.jpg)
+
+Dendrobium Spring Jewel exhibited by Joan Martin
+
+#### Amateur Division
+
+![Dendrobium kingianum var. album](/photos/2008_MOS_show/denkingianumalbum.jpg)
+
+Dendrobium kingianum var. album exhibited by Vouch Tain
 
 ### Best of Special Group
 
@@ -89,6 +124,12 @@ Dendrobium Specio-kingianum exhibited by Thu Ba
 
 Masdevallia Tungerahua exhibited by Anna Chai
 
+#### Intermediate Division
+
+![Anoectochilus formosanus](/photos/2008_MOS_show/Anoectochilusformosanus.jpg)
+
+Anoectochilus formosanus exhibited by Eanghak Quach
+
 ### Best Cattleya Alliance
 
 #### Intermediate Division
@@ -96,3 +137,9 @@ Masdevallia Tungerahua exhibited by Anna Chai
 ![Bc. Makai](/photos/2008_MOS_show/BcMakai.jpg)
 
 Bc. Makai exhibited by Donna Barnett
+
+#### Amateur Division
+
+![Dinema polybulbon](/photos/2008_MOS_show/dinemapolybulbon.jpg)
+
+Dinema polybulbon exhibited by Ginette Sanchou
