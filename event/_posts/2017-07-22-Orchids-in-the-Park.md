@@ -11,4 +11,4 @@ San Francisco County Fair Building (Hall of Flowers), Golden Gate Park
 
 $5 Admission; $4 for Seniors; Children 16 Years & Under are Free
 
-[Web page][(ttp://www.orchidsanfrancisco.org/orchid-events/orchids-in-the-park/)
+[Web page](http://www.orchidsanfrancisco.org/orchid-events/orchids-in-the-park/)
