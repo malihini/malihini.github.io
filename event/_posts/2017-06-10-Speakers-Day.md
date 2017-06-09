@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Orchid Digest Speakers' Day"
-date:   2017-06-10
+date:   2017-06-10 10:00:00
 ---
 
 June 10, 10AM - 8PM
