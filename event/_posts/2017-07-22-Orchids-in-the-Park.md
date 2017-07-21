@@ -4,7 +4,7 @@ title:  "San Francisco Orchid's Orchids in the Park"
 date:   2017-07-22 10:00AM
 ---
 
-July 10th and 11th, 10AM - 5PM
+July 22nd and 23rd, 10AM - 5PM
 
 San Francisco County Fair Building (Hall of Flowers), Golden Gate Park
 (at the corner of 9th Ave & Lincoln Way) in the Inner Sunset District of San Francisco
