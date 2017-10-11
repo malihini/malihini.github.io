@@ -4,11 +4,11 @@ title:  "The Huntington Botanical Gardens 3rd Annual International Orchid Show"
 date:   2017-10-20 10:00AM
 ---
 
-October 20nd through 22nd, 10AM - 5PM
+October 20th through 22nd, 10AM - 5PM
 
 ### Location:
-The Huntington Library, Art Collections, and Botanical Gardens - Brody Botanical Center<br>
-1151 Oxford Road<br>
+The Huntington Library, Art Collections, and Botanical Gardens - Brody Botanical Center  
+1151 Oxford Road  
 San Marino, CA 91108
 
 ### Theme:
