@@ -5,12 +5,12 @@ permalink: /sale/
 ---
 
 MALIHINI ORCHID SOCIETY 2019 Annual Orchid Sale
-Culture Demonstrations
-FREE ADMISSION
-Sat. Apr. 06 10am-6pm
+Culture Demonstrations  
+FREE ADMISSION  
+Sat. Apr. 06 10am-6pm  
 Sun. Apr. 07 10am-5pm
 
-19479 Stevens Creek Blvd. Suite 110
+19479 Stevens Creek Blvd. Suite 110  
 Cupertino, CA  95014
 
 This address will lead you to AT&T on Stevens Creek Blvd.  Our room is connected directly behind AT&T in the Main Street Cupertino shopping complex.    SEE MAP on mainstreetcupertino.com   CLICK on Directory
