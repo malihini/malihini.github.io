@@ -33,4 +33,4 @@ The following vendors are participating in our sale:
 Info @ malihini.org
 mainstreetcupertino.com
 
-<img src="img/MOS-2019_Poster.jpg">
+<img src="/img/MOS-2019_Poster.jpg">
