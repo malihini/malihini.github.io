@@ -23,14 +23,20 @@ This includes Chinese Cymbidiums, Cattleya hybrids and Phalaenopsis species.
 
 The FREE demos will be at TOWN SQUARE (the lawn area between Philz Coffee & Panino Giusto).  If there is rain, the demos will be next to our salesroom, suite 110 (directly behind AT&T store).  Refer to the **map** at [mainstreetcupertino.com](http://mainstreetcupertino.com/directory/)
 
-**Demonstration Schedule Saturday and Sunday:**<br>
+<strong>Demonstration Schedule Saturday and Sunday:</strong><br>
 
-**12:00PM** How to Keep Your Cymbidium Alive & Well - Bill Weaver<br>
-**1:00PM**  Phalaenopsis Culture - Dave Robison/Orchid Design<br>
+<strong>12:00PM</strong> How to Keep Your Cymbidium Alive & Well - Bill Weaver<br>
+<strong>1:00PM</strong>  Phalaenopsis Culture - Dave Robison/Orchid Design<br>
 (Phalaenopsis for you to practice & take home while supplies last)		    
-**3:00PM**  Easy Indoor Orchids - Angelic Nguyen/Orchid Design<br>
+<strong>3:00PM</strong>  Easy Indoor Orchids - Angelic Nguyen/Orchid Design<br>
+<table>
+<tr><th>12:00PM</th><td>How to Keep Your Cymbidium Alive & Well - Bill Weaver</td>
+<tr><th>1:00PM</th><td>Phalaenopsis Culture - Dave Robison/Orchid Design<br>
+(Phalaenopsis for you to practice & take home while supplies last)</td></tr>	    
+<tr><th>3:00PM</th><td>Easy Indoor Orchids - Angelic Nguyen/Orchid Design</td></tr>
+</table>
 
-**Vendor List:**
+<strong>Vendor List:</strong>
 * Orchid Design (indoor & outdoor growing orchids)
 * PaphParadise (Paphiopedilum & Phragmipedium, and more) – also known as Lady Slippers
 * Asbell’s Orchids (outdoor growing orchids)
