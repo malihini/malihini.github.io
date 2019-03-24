@@ -14,20 +14,20 @@ Sun. Apr. 07 10AM-5PM**
 **19479 Stevens Creek Blvd. Suite 110<br>
 Cupertino, CA  95014**
 
-This address will lead you to AT&T on Stevens Creek Blvd.  Our room is connected directly behind AT&T in the Main Street Cupertino shopping complex.    SEE MAP on [mainstreetcupertino.com](http://mainstreetcupertino.com/directory/)
+This address will lead you to AT&T on Stevens Creek Blvd.  Our room is connected directly behind AT&T in the Main Street Cupertino shopping complex.    Refer to the **map** at [mainstreetcupertino.com](http://mainstreetcupertino.com/directory/)
 
 There will be FREE lectures and demonstrations on orchids.
 Special purchased orchids from Taiwan will also be on sale.
 This includes Chinese Cymbidiums, Cattleya hybrids and Phalaenopsis species.
 
 
-The FREE demos will be at TOWN SQUARE (the lawn area between Philz Coffee & Panino Giusto).  If there is rain, the demos will be next to our salesroom, suite 110 (directly behind AT&T store).  SEE MAP at [mainstreetcupertino.com](http://mainstreetcupertino.com/directory/)
+The FREE demos will be at TOWN SQUARE (the lawn area between Philz Coffee & Panino Giusto).  If there is rain, the demos will be next to our salesroom, suite 110 (directly behind AT&T store).  Refer to the **map** at [mainstreetcupertino.com](http://mainstreetcupertino.com/directory/)
 
 **Demonstration Schedule Saturday and Sunday:**
-12:00PM How to Keep Your Cymbidium Alive & Well - Bill Weaver
-1:00PM  Phalaenopsis Culture - Dave Robison/Orchid Design
-	            (Phalaenopsis for you to practice & take home while supplies last)
-3:00PM  Easy Indoor Orchids - Angelic Nguyen/Orchid Design
+12:00PM How to Keep Your Cymbidium Alive & Well - Bill Weaver<br>
+1:00PM  Phalaenopsis Culture - Dave Robison/Orchid Design<br>
+	            (Phalaenopsis for you to practice & take home while supplies last)<br>
+3:00PM  Easy Indoor Orchids - Angelic Nguyen/Orchid Design<br>
 
 **Vendor List:**
 * Orchid Design (indoor & outdoor growing orchids)
