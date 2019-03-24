@@ -25,13 +25,10 @@ The FREE demos will be at TOWN SQUARE (the lawn area between Philz Coffee & Pani
 
 **Demonstration Schedule Saturday and Sunday:**<br>
 
-12:00PM How to Keep Your Cymbidium Alive & Well - Bill Weaver<br>
-
-1:00PM  Phalaenopsis Culture - Dave Robison/Orchid Design<br>
-
-	            (Phalaenopsis for you to practice & take home while supplies last)<br>
-		    
-3:00PM  Easy Indoor Orchids - Angelic Nguyen/Orchid Design<br>
+**12:00PM** How to Keep Your Cymbidium Alive & Well - Bill Weaver<br>
+**1:00PM**  Phalaenopsis Culture - Dave Robison/Orchid Design<br>
+(Phalaenopsis for you to practice & take home while supplies last)		    
+**3:00PM**  Easy Indoor Orchids - Angelic Nguyen/Orchid Design<br>
 
 **Vendor List:**
 * Orchid Design (indoor & outdoor growing orchids)
