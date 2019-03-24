@@ -29,6 +29,7 @@ The FREE demos will be at TOWN SQUARE (the lawn area between Philz Coffee & Pani
 <strong>1:00PM</strong>  Phalaenopsis Culture - Dave Robison/Orchid Design<br>
 (Phalaenopsis for you to practice & take home while supplies last)		    
 <strong>3:00PM</strong>  Easy Indoor Orchids - Angelic Nguyen/Orchid Design<br>
+
 <table>
 <tr><th>12:00PM</th><td>How to Keep Your Cymbidium Alive & Well - Bill Weaver</td>
 <tr><th>1:00PM</th><td>Phalaenopsis Culture - Dave Robison/Orchid Design<br>
@@ -36,7 +37,7 @@ The FREE demos will be at TOWN SQUARE (the lawn area between Philz Coffee & Pani
 <tr><th>3:00PM</th><td>Easy Indoor Orchids - Angelic Nguyen/Orchid Design</td></tr>
 </table>
 
-<strong>Vendor List:</strong>
+<strong "style="weight: bold">Vendor List:</strong>
 * Orchid Design (indoor & outdoor growing orchids)
 * PaphParadise (Paphiopedilum & Phragmipedium, and more) – also known as Lady Slippers
 * Asbell’s Orchids (outdoor growing orchids)
