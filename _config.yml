@@ -16,3 +16,12 @@ facebook_username: Malihini-Orchid-Society-1570771156515839
 markdown: kramdown
 
 future: true
+
+#trying to add settings to remove the need for the yml header
+defaults:
+  -
+    scope:
+      path: news/_posts
+    values:
+      layout: "post"
+  -
