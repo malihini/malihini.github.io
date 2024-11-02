@@ -15,4 +15,4 @@ well as from an international selection of orchid growers and breeders.
 [Membership form](/pdf/2024_MOS_Membership.pdf)
 
 
-For further membership information please contact our [membership chairperson](mailto:yuko.orchidlover@gmail.com)
+For further membership information please contact our [membership chairperson](mailto:malihini.society@gmail.com)
