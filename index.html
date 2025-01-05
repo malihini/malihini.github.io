@@ -24,8 +24,15 @@ layout: default
   </ul>
   
   <h1 class="page-heading">News</h1>
+   <script>
+    // add current Obake URL here
+    const obakeurl = 'http://malihini.org/meeting/2025/01/10/meeting.html';
+  </script>
+
+  <h1 class="page-heading">News</h1>
   <h2>
-    Newsletter link: <a href = "pdf/MOS_Obake_12_2024.pdf"> This month's Obake </a>
+    <!-- Update month here-->
+    Newsletter link: <a id="obakeurl" href = "#"> January Obake </a>
   </h2>
   <ul class="post-list">
     {% for post in site.categories.['news'] %}
