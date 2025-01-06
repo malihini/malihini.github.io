@@ -22,14 +22,18 @@ layout: default
       </li>
     {% endfor %}
   </ul>
-   <script>
+  
+ <script>
     // add current Obake URL here
-    const obakeurl = 'http://malihini.org/';
+    const obakeurl = 'http://malihini.org/meeting/2025/01/10/meeting.html';
   </script>
   <h2>
     <!-- Update month here-->
-    Newsletter link: <a id="obakeurl" href = "meeting/2025/01/10/meeting.html"> January Obake </a>
+    Newsletter link: <a id="meetingurl" href = "#"> January Obake </a>
   </h2>
+  <script>
+    document.getElementById('meetingurl').href = obakeurl;
+  </script> 
   
   <h1 class="page-heading">News</h1>
 
