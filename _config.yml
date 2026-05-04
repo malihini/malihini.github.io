@@ -2,10 +2,10 @@
 title: Malihini Orchid Society
 email: Malihini.society@gmail.com
 description: > # this means to ignore newlines until "baseurl:"
-  The Malihini Orchid Society is a non-Profit  all-volunteer organization
-  dedicated to the  appreciation, cultivation and conservation of Earth's
+  The Malihini Orchid Society is a non-Profit, all-volunteer organization
+  dedicated to the appreciation, cultivation and conservation of Earth's
   orchid species and hybrids. Membership in Malihini is open to all members
-  of our community.
+  of our community. We are based out of Santa Clara, CA with members across the Bay Area.
 baseurl: "" # the subpath of your site, e.g. /blog/
 url: "http://malihini.org" # the base hostname & protocol for your site
 facebook_username: Malihini-Orchid-Society-1570771156515839
